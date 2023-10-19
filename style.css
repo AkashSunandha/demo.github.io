@@ -1,0 +1,119 @@
+body{
+    background-color:black;
+    background-image: url('');
+    background-repeat: no-repeat;
+}
+
+#nav{
+    height: 40px;
+    width: 100%;
+    background-color:white;
+    color: black ;
+    font-size:large;
+    margin-top: -21px;
+    margin-left: -10px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    position: sticky;
+    top: 0;
+}
+
+nav li{
+    display: inline;
+    float: left;
+    padding-right: 20px;
+}
+
+nav a{
+    text-decoration: none;
+    }
+
+.nav{
+    color: black;
+}
+nav h3:hover {
+    color: rgb(248, 0, 0);
+  }
+
+h3{
+    color: rgb(255, 255, 255);
+    }
+
+#gci{
+    font-size: 50px;
+    margin-top: -58px;
+}
+#getdir{
+    margin-top: -15px;
+    font-size: 25px;
+    float: right;
+}
+#abt{
+    margin-top: -15px;
+    font-size: 25px;
+    float: right;
+}
+#getquo{
+    margin-top: -15px;
+    font-size: 25px;
+    float: right;
+}
+
+.mv{
+    height: 500px;
+    width: 500px;
+    margin-top: -30px;
+    padding-left: 120px;
+}
+#maintitle1{
+    margin-top: 5px;
+    font-size: 70px;
+    color: rgb(255, 255, 255);
+    padding-left: 500px;
+}
+#maintitle2{
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    margin-top: -50px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+#maintitle3{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    margin-top: -35px;
+    padding-left: 15px;
+    font-style: italic;
+    text-align: justify;
+}
+
+.pics{
+    height: 375px;
+    width: 600px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+
+#logoNav{
+    height: 63px;
+    width: 70px;
+    margin-left: -33px;
+}
+#logoMain{
+    height: 100px;
+    width: 100px;
+}
+
+#contact{
+    padding-top: 10px;
+}
+.footer {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    background-color: none;
+    color: black;
+}
